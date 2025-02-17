@@ -1,7 +1,7 @@
 ﻿
 namespace SalvadorComunicacaoVisual.Funcionario
 { 
-    internal class Funcionario
+    public class Funcionario
     {
         public string? IdFuncionario { get; set; }
         public string? IdEnderecoFuncionario { get; set;}
