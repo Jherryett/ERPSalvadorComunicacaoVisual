@@ -1,7 +1,7 @@
 ﻿using SalvadorComunicacaoVisual.EnderecosFuncionarios;
 using System;
 
-namespace SalvadorComunicacaoVisual.MockFuncionario
+namespace SalvadorComunicacaoVisual.MockFuncionarios
 
 {
     class MockFuncionario // Criei um mock para simular a entrada de dados, para testar service e repository
